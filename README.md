@@ -30,5 +30,6 @@ The inspiration for my scene was a base on another planet or even on a ship,
  - window_big_corner_LOD1
  - window_big_no_side
  - floor_2_no_lattice
- 
+
+ link to video about this project : https://drive.google.com/file/d/1L6EqxLUM4ch1K--PmRGjdB4vz6DrJssm/view?usp=sharing
 
